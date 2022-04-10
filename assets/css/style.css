@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+}
+.all img{
+  height:300px;
+  width:300px;
+  margin-bottom: 25px;
+  object-fit: cover;
+}
+.pink img{
+    
+}
+.red  img{
+
+}
+
+.white img{
+
+}
+.orange img{
+  
+}
+.yellow img{
+  
+}
+.bluevoilet img{
+  
+}
